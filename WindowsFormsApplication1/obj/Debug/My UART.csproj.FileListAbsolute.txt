@@ -1,0 +1,26 @@
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My UART.exe.config
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My UART.exe
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My UART.pdb
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My UART.csprojResolveAssemblyReference.cache
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MyUART.Properties.Resources.resources
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My UART.csproj.GenerateResource.Cache
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My UART.exe
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My UART.pdb
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My UART.exe.manifest
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\My UART.application
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My UART.exe.manifest
+D:\Study\C #\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\My UART.application
+D:\Study\C #\My uart\WindowsFormsApplication1\bin\Debug\My UART.exe.config
+D:\Study\C #\My uart\WindowsFormsApplication1\obj\Debug\My UART.exe
+D:\Study\C #\My uart\WindowsFormsApplication1\obj\Debug\My UART.pdb
+D:\Study\C #\My uart\WindowsFormsApplication1\bin\Debug\My UART.exe.manifest
+D:\Study\C #\My uart\WindowsFormsApplication1\bin\Debug\My UART.application
+D:\Study\C #\My uart\WindowsFormsApplication1\bin\Debug\My UART.exe
+D:\Study\C #\My uart\WindowsFormsApplication1\bin\Debug\My UART.pdb
+D:\Study\C #\My uart\WindowsFormsApplication1\obj\Debug\My UART.csprojResolveAssemblyReference.cache
+D:\Study\C #\My uart\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Study\C #\My uart\WindowsFormsApplication1\obj\Debug\MyUART.Properties.Resources.resources
+D:\Study\C #\My uart\WindowsFormsApplication1\obj\Debug\My UART.csproj.GenerateResource.Cache
+D:\Study\C #\My uart\WindowsFormsApplication1\obj\Debug\My UART.exe.manifest
+D:\Study\C #\My uart\WindowsFormsApplication1\obj\Debug\My UART.application
